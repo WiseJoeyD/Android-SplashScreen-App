@@ -1,2 +1,3 @@
 # AndroidApp
-Android example app
+
+Launches splash screen, with basic animations
